@@ -1,5 +1,4 @@
 def all_nines(x):
-
     if x % 2 == 0 or x % 5 == 0:
         return -1
     
@@ -11,4 +10,4 @@ def all_nines(x):
     
     return -1
 
-print(all_nines(3989))
+print(all_nines(243))
